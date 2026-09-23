@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'MåleriVision Sthlm AB',
+	'bransch'        => 'Målare',
 	'telefon'        => '073-250 50 01',
 	'telefon_tel'    => '+46732505001',
 	'betyg'          => '4,9',
